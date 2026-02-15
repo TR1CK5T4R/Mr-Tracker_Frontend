@@ -179,7 +179,6 @@ function Body() {
                             <h3 style={{
                                 fontSize: '1.5rem',
                                 marginBottom: '0.75rem',
-                                color: 'var(--text-primary)',
                                 transition: 'color 0.3s ease',
                                 color: hoveredFeature === index ? feature.color : 'var(--text-primary)'
                             }}>
